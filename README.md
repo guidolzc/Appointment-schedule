@@ -5,7 +5,7 @@
  
  2- we add data 
  
- 3- we will see appointments and delete appointments
+ 3we will see appointments and delete appointments
 
 
 https://guidolzc.github.io/Appointment-schedule/
