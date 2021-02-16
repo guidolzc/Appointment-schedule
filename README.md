@@ -8,11 +8,11 @@ Manage your appointments with date and time using indexdb in javascript
 
 3- we will see appointments and delete appointment
 
-link
+link 
 
 https://guidolzc.github.io/Appointment-schedule/
 
-# Horario-cita
+# Horario-cita 
 
 Administre sus citas con fecha y hora usando indexdb en javascript
 
@@ -20,7 +20,7 @@ Administre sus citas con fecha y hora usando indexdb en javascript
 
 2- agregar datos
 
-3- veremos citas y eliminaremos cita
+3- veremos citas y eliminaremos cita.
 
 
 
